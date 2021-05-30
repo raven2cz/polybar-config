@@ -94,3 +94,7 @@ $ bash ~/.config/polybar/launch.sh
 ## Launch Polybar
 bash ~/.config/polybar/launch.sh
 ```
+
+### Change colormaps of themes
+
+Right-Click to launcher button (left side first button with rofi), the selector of color maps is started. Select color map.
