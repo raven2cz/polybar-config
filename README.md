@@ -1,4 +1,4 @@
-# Advanced Polybar Modules Configuration
+# Advanced Polybar Module Configuration
 
 Polybar configuration with patched and improved modules for Awesome, i3 and XFCE4. Base design fits to **MX-Linux (Debian Stable) and Arch Distros**.
 
@@ -6,17 +6,26 @@ Polybar configuration with patched and improved modules for Awesome, i3 and XFCE
 
 This project configures and extend github polybar sources from
 
-* *polybar-themes (adi1090x)* - forest theme - https://github.com/adi1090x/polybar-themes
-* *polywins (alnj)* - https://github.com/alnj/polywins
-* *polybar-mpris (0jdxt)* - https://github.com/0jdxt/polybar-mpris
-* *dotfiles by Derek Taylor (DT)* - https://gitlab.com/dwt1/dotfiles
-* *My personal scripts* and modifications for several modules
+* **polybar-themes (adi1090x)** - forest theme - https://github.com/adi1090x/polybar-themes
+* **polywins (alnj)** - https://github.com/alnj/polywins
+* **polybar-mpris (0jdxt)** - https://github.com/0jdxt/polybar-mpris
+* **polybar-scripts** - https://github.com/polybar/polybar-scripts
+* **dotfiles by Derek Taylor (DT)** - https://gitlab.com/dwt1/dotfiles
+* **My personal scripts** and modifications for several modules
+
+*NOTE:* If you love this polybar - please add **git stars to listed projects!**
 
 ## Screenshots
+
+##### Polybar Forest/Gruvbox FXCE4 with MPRIS - Spotify, Netflix, Youtube, text cycling and improved controls Example
 ![Polybar Forest/Gruvbox FXCE4 with MPRIS (Spotify) Example](images/polybar-example-2.jpg)
+
+##### Polybar Forest/Default i3 Configured Modules Example
 ![Polybar Forest/Default i3 Configured Modules Example](images/polybar-example-1.jpg)
 
 ## MAIN GOALs
+
+The main goal of this project is complete and enhanced configuration of polybar modules for MX-Linux and Arch systems.
 
 Inherited actual theme is **Forest** with few styles colormaps from:
 
@@ -24,14 +33,14 @@ https://github.com/adi1090x/polybar-themes/tree/master/simple/forest
 
 Supported all modules already included in the polybar-themes project.
 
-### Added Modules
+### Added Enhanced Modules
 
 * **Weather Module** for Open Weather site with Nerd Fonts.
 * **MPRIS Module** - with scrolling and activity icon - support all players Spotify, MPD, Youtube, Netflix,...
 * **Polywins Module** - Opened application administration support
 * **Network Improved Modules**
 * **AMD Ryzen and new AMD GPUs Temperatures Modules**
-* **Worskpaces Enhanced Module**
+* **Workspaces Enhanced Module**
 * **Update Module** - for MX-Linux and Arch Distros
 * **System Module** - for MX-Linux and Arch Distros changed
 
