@@ -17,6 +17,9 @@ This project configures and extend github polybar sources from
 
 ## Screenshots
 
+##### Polybar Forest/Default in AwesomeWM
+![Polybar Forest/Gruvbox FXCE4 with MPRIS (Spotify) Example](images/polybar-example-3-awesomewm.jpg)
+
 ##### Polybar Forest/Gruvbox FXCE4 with MPRIS - Spotify, Netflix, Youtube, text cycling and improved controls Example
 ![Polybar Forest/Gruvbox FXCE4 with MPRIS (Spotify) Example](images/polybar-example-2.jpg)
 
