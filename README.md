@@ -89,11 +89,11 @@ $ git clone https://github.com/raven2cz/polybar-config
 - Change to cloned directory and make setup.sh executable -
 ```
 $ cd polybar-config
-$ chmod +x .config/polybar/scripts/*
+$ chmod +x scripts/*
 ```
 
 - Backup your polybar settings (if you already have).
-- Copy dir `.config/polybar` to your `~/.config/polybar` user directory.
+- Copy dir polybar dir `.` to your `~/.config/polybar` user directory.
 - **That's it, This polybar is now installed on your system.**
 
 ### Polybar Configuration
